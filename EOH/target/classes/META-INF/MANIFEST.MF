@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EOH
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: FixIT Computers
+Implementation-Vendor-Id: za.co.digitalplatoon
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/EOH
+Created-By: Maven Integration for Eclipse
+
